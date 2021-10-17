@@ -1,0 +1,6 @@
+# Ideen
+
+## Technologien
+- JAVA
+
+## Notwendiges
