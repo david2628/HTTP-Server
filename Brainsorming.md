@@ -2,5 +2,6 @@
 
 ## Technologien
 - JAVA
+- IntelliJ
 
 ## Notwendiges
