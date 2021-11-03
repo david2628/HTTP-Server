@@ -20,5 +20,5 @@ Kundennutzen
 - JavaScript (Frontend)
 
 ### Repos
-https://github.com/david2628/PollMeter-Frontend
-https://github.com/david2628/PollMeter
+- https://github.com/david2628/PollMeter-Frontend
+- https://github.com/david2628/PollMeter
